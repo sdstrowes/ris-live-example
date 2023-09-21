@@ -8,5 +8,7 @@ To build:
 
 Should generate ./ris; run `./ris`
 
-This is the firehose; the code has a couple of examples on how to filter the stream.
+This will give basically the firehose: any IPv4 update, from any RIS collector. The code has a couple of examples on how to filter the stream.
+
+There's more info in the RIS Live manual: https://ris-live.ripe.net/manual/
 
